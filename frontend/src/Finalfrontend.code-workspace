@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Finalfrontend",
+			"path": "../.."
+		},
+		{
+			"name": "Agrooptics",
+			"path": "../../../Agrooptics"
+		}
+	],
+	"settings": {}
+}
